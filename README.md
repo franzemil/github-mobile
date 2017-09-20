@@ -1,3 +1,5 @@
 # github-mobile
 
-Permite ver organizar lso repositores mas populares por el lenguage en el que fue desarrollado
+Permite ver  los repositorios mas populares por el lenguage en el que fue desarrollado.
+
+Se hizo uso de la API de github.
